@@ -11,5 +11,5 @@ platforms :jruby do
   gem "activerecord-jdbcsqlite3-adapter"
 end
 
-gem "rails", "~> 5.0"
+gem "rails", "~> 5.1"
 gem "mongoid", github: "mongodb/mongoid"
